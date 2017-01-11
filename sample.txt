@@ -1,2 +1,7 @@
 First Line
+<<<<<<< HEAD
 XYZ
+=======
+Second line
+Third Line
+>>>>>>> 9a31d0ecf4d391a2e2370891058b64118626270b
